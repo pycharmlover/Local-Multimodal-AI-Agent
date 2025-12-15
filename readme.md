@@ -197,7 +197,6 @@ http://localhost:7860
 ```bash
 python main.py add_paper ch2.pdf --topics CV,NLP,RL
 ```
-
 ---
 
 ### 5.2 搜索论文
@@ -206,6 +205,7 @@ python main.py add_paper ch2.pdf --topics CV,NLP,RL
 python main.py search_paper "attention mechanism"
 ```
 
+![搜索论文](readme_images/搜索论文_CLI.png)
 ---
 
 ### 5.3 搜索段落
@@ -214,6 +214,7 @@ python main.py search_paper "attention mechanism"
 python main.py search_paragraph "self-attention"
 ```
 
+![搜索段落](readme_images/搜索段落_CLI.png)
 ---
 
 ### 5.4 添加图片
@@ -230,6 +231,7 @@ python main.py add_image pizza.jpg
 python main.py search_image "pizza with cheese" --threshold 0.35
 ```
 
+![搜索图片](readme_images/搜索图片_CLI.png)
 ---
 
 ## 6️⃣ 项目总结
