@@ -208,7 +208,7 @@ python main.py search_paper "attention mechanism"
 
 ---
 
-### 5.3 搜索段落（加分项）
+### 5.3 搜索段落
 
 ```bash
 python main.py search_paragraph "self-attention"
