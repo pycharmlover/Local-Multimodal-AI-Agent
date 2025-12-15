@@ -166,7 +166,7 @@ http://localhost:7860
 ---
 
 ### 4.4 段落级检索
-![段落搜索](readme_images/段落搜索.png)
+![段落检索](readme_images/段落检索.png)
 
 - 输入一句自然语言
 - 返回：
