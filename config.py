@@ -19,10 +19,10 @@ CLIP_PATH = r"E:\LLM_Models\clip-vit-l-14"
 USE_API = True 
 
 # DeepSeek 配置
-DEEPSEEK_API_KEY = "sk-55784a9c73b44a369923e77539bbd2fb"
+DEEPSEEK_API_KEY = "your-deepseek-api-key"  # 替换为你的 DeepSeek API Key
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 MODEL_NAME = "deepseek-chat" 
 
 # ===== 新增：通义千问视觉版配置 =====
-QWEN_API_KEY = "sk-ecdb0914f8cb4e66ba5b5d532c52b0f1" 
+QWEN_API_KEY = "your-qwen-api-key"  # 替换为你的通义千问 API Key
 QWEN_MODEL_NAME = "qwen3-vl-plus"
